@@ -1,16 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kangdonggu.8222quick.com/</loc>
-    <lastmod>2026-02-11</lastmod>
-    <changefreq>daily</changefreq>
+    <loc>https://gangnamgu.8222quick.com/</loc>
+    <lastmod>2025-07-30</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://kangdonggu.8222quick.com/money.html</loc>
-    <lastmod>2026-02-11</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://gangnamgu.8222quick.com/money.html</loc>
+    <lastmod>2025-07-30</lastmod>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gangnamgu.8222quick.com/yeoksamdong.html</loc>
+    <lastmod>2025-07-30</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://gangnamgu.8222quick.com/samseongdong.html</loc>
+    <lastmod>2025-07-30</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://gangnamgu.8222quick.com/nonhyeondong.html</loc>
+    <lastmod>2025-07-30</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://gangnamgu.8222quick.com/daechidong.html</loc>
+    <lastmod>2025-07-30</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://gangnamgu.8222quick.com/cheongdamdong.html</loc>
+    <lastmod>2025-07-30</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://gangnamgu.8222quick.com/sinsadong.html</loc>
+    <lastmod>2025-07-30</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://gangnamgu.8222quick.com/dogokdong.html</loc>
+    <lastmod>2025-07-30</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://gangnamgu.8222quick.com/gaepodong.html</loc>
+    <lastmod>2025-07-30</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://gangnamgu.8222quick.com/apgujeongdong.html</loc>
+    <lastmod>2025-07-30</lastmod>
+    <priority>0.9</priority>
   </url>
 </urlset>
 

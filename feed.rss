@@ -1,25 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>강동구 퀵서비스 | 에이플러스 강동구퀵 24시</title>
-    <link>https://kangdonggu.8222quick.com/</link>
-    <description>강동구 전지역 24시 신속 퀵배송, 고덕비즈밸리 및 천호역 인근 특화 배차</description>
+    <title>에이플러스 강남구 퀵서비스</title>
+    <link>https://gangnamgu.8222quick.com/</link>
+    <description>강남구 전지역 24시 빠른배차 오토바이, 다마스, 라보 퀵서비스 전문 에이플러스퀵</description>
     <language>ko</language>
-    <pubDate>Wed, 11 Feb 2026 11:10:00 +0900</pubDate>
+    <pubDate>Wed, 30 Jul 2025 09:00:00 +0900</pubDate>
+    <lastBuildDate>Wed, 30 Jul 2025 09:00:00 +0900</lastBuildDate>
+    <atom:link href="https://gangnamgu.8222quick.com/rss.xml" rel="self" type="application/rss+xml" />
+
     <item>
-      <title>강동구 퀵서비스 천호/고덕 전지역 15분 픽업 안내</title>
-      <link>https://kangdonggu.8222quick.com/</link>
-      <description>천호대로, 올림픽대로 연계 신속 배차. 오토바이, 다마스, 라보 상시 대기.</description>
-      <pubDate>Wed, 11 Feb 2026 11:10:00 +0900</pubDate>
-      <guid>https://kangdonggu.8222quick.com/</guid>
+      <title>강남구 퀵서비스 24시 빠른배차 에이플러스퀵</title>
+      <link>https://gangnamgu.8222quick.com/</link>
+      <description>강남구 전지역 15분 내 신속 픽업. 오토바이, 다마스, 라보 맞춤 배차 및 기업 법인 결제 지원</description>
+      <guid isPermaLink="true">https://gangnamgu.8222quick.com/</guid>
+      <pubDate>Wed, 30 Jul 2025 09:00:00 +0900</pubDate>
     </item>
+
     <item>
-      <title>강동구 퀵서비스 차종별 요금 및 기업 법인 서비스 안내</title>
-      <link>https://kangdonggu.8222quick.com/money.html</link>
-      <description>강동구에서 강남, 송파, 하남 방면으로 연결되는 합리적인 요금표를 확인하세요.</description>
-      <pubDate>Wed, 11 Feb 2026 11:10:00 +0900</pubDate>
-      <guid>https://kangdonggu.8222quick.com/money.html</guid>
+      <title>역삼동 퀵서비스 | 테헤란로 기업 서류 전문</title>
+      <link>https://gangnamgu.8222quick.com/yeoksamdong.html</link>
+      <description>역삼역, 선릉역 인근 빌딩가 10분 내 신속 픽업 및 전국 당일 배송</description>
+      <guid isPermaLink="true">https://gangnamgu.8222quick.com/yeoksamdong.html</guid>
+      <pubDate>Wed, 30 Jul 2025 09:00:00 +0900</pubDate>
     </item>
+
+    <item>
+      <title>삼성동 퀵서비스 | 코엑스 전시물 및 기업 물류</title>
+      <link>https://gangnamgu.8222quick.com/samseongdong.html</link>
+      <description>코엑스 전시 물품, 봉은사역 인근 기업 서류 및 긴급 소화물 전문 배송</description>
+      <guid isPermaLink="true">https://gangnamgu.8222quick.com/samseongdong.html</guid>
+      <pubDate>Wed, 30 Jul 2025 09:00:00 +0900</pubDate>
+    </item>
+
+    <item>
+      <title>논현동 퀵서비스 | 가구거리 및 스튜디오 촬영장비</title>
+      <link>https://gangnamgu.8222quick.com/nonhyeondong.html</link>
+      <description>학동역 가구거리, 논현동 스튜디오 촬영 장비 및 쇼핑몰 의류 신속 배송</description>
+      <guid isPermaLink="true">https://gangnamgu.8222quick.com/nonhyeondong.html</guid>
+      <pubDate>Wed, 30 Jul 2025 09:00:00 +0900</pubDate>
+    </item>
+
+    <item>
+      <title>대치동 퀵서비스 | 학원가 교재 및 생활 물류</title>
+      <link>https://gangnamgu.8222quick.com/daechidong.html</link>
+      <description>대치동 학원가 긴급 교재 배송 및 은마아파트 등 대단지 안심 배송</description>
+      <guid isPermaLink="true">https://gangnamgu.8222quick.com/daechidong.html</guid>
+      <pubDate>Wed, 30 Jul 2025 09:00:00 +0900</pubDate>
+    </item>
+
+    <item>
+      <title>청담동 퀵서비스 | 명품거리 및 웨딩 특화</title>
+      <link>https://gangnamgu.8222quick.com/cheongdamdong.html</link>
+      <description>청담동 명품 고가 상품 안심 운송 및 웨딩드레스, 예물 전문 퀵서비스</description>
+      <guid isPermaLink="true">https://gangnamgu.8222quick.com/cheongdamdong.html</guid>
+      <pubDate>Wed, 30 Jul 2025 09:00:00 +0900</pubDate>
+    </item>
+
+    <item>
+      <title>신사동 퀵서비스 | 가로수길 및 압구정역 병원물류</title>
+      <link>https://gangnamgu.8222quick.com/sinsadong.html</link>
+      <description>가로수길 매장 재고 및 압구정역 성형외과 기공물 긴급 배송 전문</description>
+      <guid isPermaLink="true">https://gangnamgu.8222quick.com/sinsadong.html</guid>
+      <pubDate>Wed, 30 Jul 2025 09:00:00 +0900</pubDate>
+    </item>
+
+    <item>
+      <title>도곡동 퀵서비스 | 타워팰리스 및 프리미엄 주거</title>
+      <link>https://gangnamgu.8222quick.com/dogokdong.html</link>
+      <description>도곡동 고급 주거단지 안심 배송 및 매봉역 인근 오피스 특송</description>
+      <guid isPermaLink="true">https://gangnamgu.8222quick.com/dogokdong.html</guid>
+      <pubDate>Wed, 30 Jul 2025 09:00:00 +0900</pubDate>
+    </item>
+
+    <item>
+      <title>개포동 퀵서비스 | 신축 대단지 생활물류</title>
+      <link>https://gangnamgu.8222quick.com/gaepodong.html</link>
+      <description>개포 신축 대단지 아파트 생활 물류 및 긴급 민원 서류 대행</description>
+      <guid isPermaLink="true">https://gangnamgu.8222quick.com/gaepodong.html</guid>
+      <pubDate>Wed, 30 Jul 2025 09:00:00 +0900</pubDate>
+    </item>
+
+    <item>
+      <title>압구정동 퀵서비스 | 현대아파트 및 메디컬 특구</title>
+      <link>https://gangnamgu.8222quick.com/apgujeongdong.html</link>
+      <description>압구정 현대·한양아파트 안심 생활 퀵 및 병의원 기공물 최속 배송</description>
+      <guid isPermaLink="true">https://gangnamgu.8222quick.com/apgujeongdong.html</guid>
+      <pubDate>Wed, 30 Jul 2025 09:00:00 +0900</pubDate>
+    </item>
+
   </channel>
 </rss>
 
